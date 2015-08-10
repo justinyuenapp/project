@@ -1,1 +1,5 @@
-signin
+<?php 
+include 'func.php';
+
+
+?>
